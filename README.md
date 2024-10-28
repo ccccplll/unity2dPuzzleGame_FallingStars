@@ -1,36 +1,3 @@
-游戏名称：星陨幻境
-
-游戏类型：2d横板平台跳跃解密游戏
-
-游戏玩法：参考双生幻境
-
-游戏开发人员：
-
-蔡灿：主程序​  开发过程中所遇问题以及解决方法见程序个人博客：https://ccccplll.github.io
-
-董凌霄：主美术（游戏素材、任务、特效）、策划
-
-刘钟泽：策划（项目管理、玩法设计）、副程序​
-
-谢昀林：策划（地图、玩法）、副程序​
-
-张晏清：文案
-
-杜亦然：文案、美术（设计、作画、2d像素、可爱、写实）​
-
-项目完整资源网盘链接: https://pan.baidu.com/s/1fEzz_UKpf_d9yzQy9x0kEA?pwd=ctbz 提取码: ctbz 
-
-![image](https://github.com/user-attachments/assets/90364ea4-cfca-4c49-9551-b0cf4a48c52a)
-
-游戏目前处于持续开发状态：
-
-version0.7 基本实现游戏主要功能，包含四个关卡以及部分故事线
-
-version0.8 在0.7的基础上进行了游戏场景美化，增强了视觉特效，增添了灯光动效
-
-version0.9 在0.8的基础上美化了ui界面，对数据存储无法保存的bug进行了修复
-
-本项目支持学习和参考，支持在原有基础上进行优化和改编，请勿用作商用，感谢您的体验。
-
-与开发者沟通：c75966880@163.com
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbf9ed97a76de2afe15234f31b66fcdba952d7371dff1a0022e520f48a152beb
+size 1244

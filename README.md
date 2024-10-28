@@ -18,4 +18,7 @@
 
 杜亦然：文案、美术（设计、作画、2d像素、可爱、写实）​
 
-项目完整资源网盘链接：
+项目完整资源网盘链接: https://pan.baidu.com/s/1fEzz_UKpf_d9yzQy9x0kEA?pwd=ctbz 提取码: ctbz 
+
+![image](https://github.com/user-attachments/assets/90364ea4-cfca-4c49-9551-b0cf4a48c52a)
+

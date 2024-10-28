@@ -32,6 +32,9 @@ v-0.9 在v-0.8的基础上新增了教学关卡，完善了故事线，优化了
 
 游戏完整代码资源：https://pan.baidu.com/s/1pjKEONyZrpZU1iJ_GKWWNQ?pwd=ctbz 提取码: ctbz 
 
+![image](https://github.com/user-attachments/assets/924af3b2-c0d5-4f35-b9da-ed91d44c11ab)
+
+
 该游戏项目还在持续开发中，欢迎转载和优化本项目，仅供学习参考，请勿用作他用。
 
 开发者邮箱：c75966880@163.com

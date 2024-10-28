@@ -1,0 +1,4 @@
+README.md filter=lfs diff=lfs merge=lfs -text
+星陨幻境代码包 filter=lfs diff=lfs merge=lfs -text
+星陨幻境文件包 filter=lfs diff=lfs merge=lfs -text
+星陨幻境版本游戏包 filter=lfs diff=lfs merge=lfs -text

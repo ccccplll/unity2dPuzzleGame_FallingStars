@@ -34,6 +34,11 @@ v-0.9 在v-0.8的基础上新增了教学关卡，完善了故事线，优化了
 
 ![image](https://github.com/user-attachments/assets/924af3b2-c0d5-4f35-b9da-ed91d44c11ab)
 
+部分游戏界面截图：
+
+![9669d2f0fa0bccb380ecb47326463301](https://github.com/user-attachments/assets/19d044f4-ed7c-4af3-ad72-f56acccf5168)
+
+![6a93327c56620e359f0ddf1054dab821](https://github.com/user-attachments/assets/938b8d1f-1680-4eab-85f5-44dd45798a52)
 
 该游戏项目还在持续开发中，欢迎转载和优化本项目，仅供学习参考，请勿用作他用。
 
